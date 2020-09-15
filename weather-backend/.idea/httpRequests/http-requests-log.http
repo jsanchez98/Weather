@@ -1,0 +1,12 @@
+POST http://localhost:3001/api/users
+content-type: application/json
+
+{
+  "username": "jsanch",
+  "password": "animalito"
+}
+
+<> 2020-09-14T112731.200.json
+
+###
+
